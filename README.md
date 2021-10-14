@@ -35,9 +35,9 @@ Dieses Problem lösen Sie wie folgt:
 
 ### Autor
 
-**[Name hier eintragen]**
+**[Stefanie Lösch]**
 
-_[Berufsbezeichnung hier eintragen]_
+_[Datenanalystin]_
 
 Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors?u=104) an.
 
