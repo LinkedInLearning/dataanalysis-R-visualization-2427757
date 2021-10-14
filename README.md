@@ -1,9 +1,11 @@
 # Datenanalyse mit R: Visualisierung
-Dies ist das Repository für den **LinkedIn Learning** Kurs [COURSENAME]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs [Datenanalyse mit R: Visualisierung]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
+[![Datenanalyse mit R: Visualisierung](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
 
-[COURSEDESCRIPTION]
+In unserem digitalen Zeitalter fallen Unmengen an Daten an ... ein regelrechter Datenschatz, der jedoch erst einen Wert bekommt, wenn wir daraus nützliche Informationen ziehen können. Die Statistiksprache R ist dafür ein mächtiges Werkzeug. Sie bietet eine umfangreiche Bibliothek an Paketen, die das Importieren, Aufbereiten und Analysieren von Daten vereinfacht. In diesem LinkedIn Learning Kurs möchte ich Ihnen zeigen, wie Sie Daten visuell mit R analysieren können.  
+ 
+Die Trainerin Stefanie Lösch gibt Ihnen einen Einblick in die verschiedenen Farben und Farbpaletten von R. Sie erfahren, wie Sie eine Vielfalt an Grafiken und Diagrammtypen auf unterschiedliche Weise erstellen können. Dazu gehören Säulendiagramme und Histogramme, sowie Boxplots, Streudiagramme, aber auch Dendrogramme zur Analyse von Gruppenstrukturen in Datensätzen. 
 
 ## Anleitung
 Dieses Repository hat Branches für jedes Video im Kurs. Verwenden Sie das Ausklappmenü "Branch: ..." in GitHub um zwischen den unterschiedlichen Branches hin und her zu wechseln bzw. um bei einem spezifischen Status einzusteigen. Oder Sie fügen `/tree/BRANCH_NAME` der URL hinzu um direkt in den gewünschten Branch zu wechseln.
