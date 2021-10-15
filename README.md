@@ -3,7 +3,7 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs [Datenanalyse mit R:
 
 [![Datenanalyse mit R: Visualisierung](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
 
-In unserem digitalen Zeitalter fallen Unmengen an Daten an ... ein regelrechter Datenschatz, der jedoch erst einen Wert bekommt, wenn wir daraus nützliche Informationen ziehen können. Die Statistiksprache R ist dafür ein mächtiges Werkzeug. Sie bietet eine umfangreiche Bibliothek an Paketen, die das Importieren, Aufbereiten und Analysieren von Daten vereinfacht. In diesem LinkedIn Learning Kurs zeigt die Trainerin Stefanie Lösch, wie Sie Daten visuell mit R analysieren können.  
+In unserem digitalen Zeitalter fallen Unmengen an Daten an ... ein regelrechter Datenschatz, der jedoch erst einen Wert bekommt, wenn wir daraus nützliche Informationen ziehen können. Die Statistiksprache R ist dafür ein mächtiges Werkzeug. Sie bietet eine umfangreiche Bibliothek an Paketen, die das Importieren, Aufbereiten und Analysieren von Daten vereinfacht. In diesem LinkedIn Learning Kurs zeigt Ihnen die Trainerin Stefanie Lösch, wie Daten visuell mit R analysiert werden können.  
  
 Die Trainerin Stefanie Lösch gibt Ihnen einen Einblick in die verschiedenen Farben und Farbpaletten von R. Sie erfahren, wie Sie eine Vielfalt an Grafiken und Diagrammtypen auf unterschiedliche Weise erstellen können. Dazu gehören Säulendiagramme und Histogramme, sowie Boxplots, Streudiagramme, aber auch Dendrogramme zur Analyse von Gruppenstrukturen in Datensätzen. 
 
