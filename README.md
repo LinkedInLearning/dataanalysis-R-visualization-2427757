@@ -36,11 +36,11 @@ Dieses Problem lösen Sie wie folgt:
 
 ### Autor
 
-**[Stefanie Lösch]**
+**Stefanie Lösch**
 
-_[Datenanalystin]_
+_Datenanalystin, Trainerin, Dr. rer. pol._
 
-Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors?u=104) an.
+Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dr-stefanie-losch) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
