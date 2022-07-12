@@ -43,4 +43,3 @@ _Datenanalystin, Trainerin, Dr. rer. pol._
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dr-stefanie-losch) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/datenanalyse-mit-r-datenvisualisierung
-[lil-thumbnail-url]:
