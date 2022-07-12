@@ -1,7 +1,7 @@
 # Datenanalyse mit R: Visualisierung
-Dies ist das Repository für den **LinkedIn Learning** Kurs [Datenanalyse mit R: Visualisierung]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+Dies ist das Repository für den **LinkedIn Learning** Kurs `Datenanalyse mit R: Visualisierung`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-[![Datenanalyse mit R: Visualisierung](COURSEIMAGE)](LICOURSEURL)![Building a GraphQL Project with React.js][lil-thumbnail-url] 
+![image](https://user-images.githubusercontent.com/61017085/178548825-48c59056-e80b-4768-ae62-a34fd90528c2.png) 
 
 In unserem digitalen Zeitalter fallen Unmengen an Daten an ... ein regelrechter Datenschatz, der jedoch erst einen Wert bekommt, wenn wir daraus nützliche Informationen ziehen können. Die Statistiksprache R ist dafür ein mächtiges Werkzeug. Sie bietet eine umfangreiche Bibliothek an Paketen, die das Importieren, Aufbereiten und Analysieren von Daten vereinfacht. In diesem LinkedIn Learning Kurs zeigt Ihnen die Trainerin Stefanie Lösch, wie Daten visuell mit R analysiert werden können.  
  
@@ -42,5 +42,5 @@ _Datenanalystin, Trainerin, Dr. rer. pol._
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dr-stefanie-losch) an.
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/datenanalyse-mit-r-datenvisualisierung
+[lil-thumbnail-url]:
